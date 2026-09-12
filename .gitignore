@@ -1,0 +1,28 @@
+# Ambientes Virtuais
+.venv/
+venv/
+env/
+
+# Arquivos de Cache do Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Bancos de Dados e Arquivos Locais (MUITO IMPORTANTE)
+*.db
+*.sqlite3
+
+# Uploads e Mídias Pessoais do Usuário
+foto_perfil/
+*.png
+*.jpg
+*.jpeg
+!image_placeholder.png # (Exceção: se você tiver uma imagem padrão do app, pode colocar a exclamação para o git ignorar a regra)
+
+# Configurações do VS Code e SO
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Variáveis de Ambiente (Senhas e Chaves de API no futuro)
+.env
