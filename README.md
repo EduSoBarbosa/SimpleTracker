@@ -1,4 +1,5 @@
 # SimpleTracker 🦾
+<img width="1920" height="951" alt="home" src="https://github.com/user-attachments/assets/ed29f79c-ea21-4c21-9d07-de69abe9afac" />
 
 > **Um sistema local-first para registrar, acompanhar e analisar a evolução física através de dados.**
 
